@@ -173,6 +173,8 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\TBotService - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\TBotService - Web Deploy1.pubxml" />
+    <None Include="Properties\PublishProfiles\TelegramBot20200325050536 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\TelegramBotyara - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\telegrambotyara - Web Deploy1.pubxml" />
     <None Include="Properties\PublishProfiles\telegrambotyara - Web Deploy2.pubxml" />

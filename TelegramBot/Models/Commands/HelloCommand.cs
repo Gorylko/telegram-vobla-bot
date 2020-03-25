@@ -18,7 +18,7 @@ namespace TelegramBot.Models.Commands
 
             //Bot logic there
 
-            client.SendTextMessageAsync(chatId, "Саня хуй соси", replyToMessageId: messageId);
+            client.SendTextMessageAsync(chatId, "Саня хуй соси");
         }
     }
 }
